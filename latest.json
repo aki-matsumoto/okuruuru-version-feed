@@ -1,0 +1,9 @@
+{
+    "version": "1.54.1",
+    "released_at": "2026-05-08T09:30:00+09:00",
+    "title": "F21 バッジ点滅修正（hotfix）",
+    "zip_url": "https://github.com/aki-matsumoto/okuruuru-mistake-prevention/archive/refs/tags/v1.54.1.zip",
+    "notes_url": "https://github.com/aki-matsumoto/okuruuru-mistake-prevention/releases/tag/v1.54.1",
+    "min_version": "1.0.0",
+    "message": "F3-A 申込書チェックパネル表示時の F21 当日カウンター点滅を修正しました。"
+}
